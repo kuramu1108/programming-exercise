@@ -1,0 +1,3 @@
+http://www.st.cs.kumamoto-u.ac.jp/~masato/pe2/
+wget http://www.st.cs.kumamoto-u.ac.jp/~masato/pe2/src/src0
+tar xvf
